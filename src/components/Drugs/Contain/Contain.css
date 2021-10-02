@@ -1,0 +1,7 @@
+.data-container {
+  display: grid;
+  grid-template-columns: 3fr;
+}
+.card-container {
+  border-right: 1px solid lightgray;
+}
